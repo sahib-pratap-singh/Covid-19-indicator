@@ -4,7 +4,9 @@ Web based application to analyse the live cases of COVID-19 and is impact on eco
 The first page contains the data for the world cases it will give you information about confirmed,rcovered,death cases in diffrent countries.It also take the input for which country you want to know and according to that it will show you the graph.It looks like:
 # world cases
 <img width="960" alt="w" src="https://user-images.githubusercontent.com/59799717/82750124-ba6f4e00-9dcb-11ea-9c84-4e05f0caf368.PNG">
+
 This is the 3D view of no of confirmed cases in USA using pydeck.
+
 <img width="960" alt="w1" src="https://user-images.githubusercontent.com/59799717/82750465-fe635280-9dcd-11ea-856a-19e179c2e06c.PNG">
 <img width="960" alt="w2" src="https://user-images.githubusercontent.com/59799717/82750485-1b982100-9dce-11ea-9808-88fdf1ee7dbd.PNG">
 <img width="960" alt="w3" src="https://user-images.githubusercontent.com/59799717/82750490-2652b600-9dce-11ea-8afd-f21ff0211212.PNG">
@@ -26,6 +28,7 @@ It will show you how COVID-19 has effected the economy,unemployment,GDP of World
 ## GDP
 
 You can see how GDP is decreasing.
+
 <img width="959" alt="w9" src="https://user-images.githubusercontent.com/59799717/82750586-bc86dc00-9dce-11ea-8885-913b1aa0cf6f.PNG">
 
 ![alt text](https://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2020/2/26/95d3056d580c43bdb53c4f328155a590_18.jpg)
