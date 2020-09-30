@@ -1,7 +1,7 @@
 # Covid-19-indicator
-Web based application to analyse the live cases of COVID-19 and is impact on economy.
+Web based application to analyse the live cases of COVID-19 and its impact on economy.
 
-The first page contains the data for the world cases it will give you information about confirmed,rcovered,death cases in diffrent countries.It also take the input for which country you want to know and according to that it will show you the graph.It looks like:
+The first page contains the data for the world cases it will give you information about confirmed,recovered,and death cases in various countries.It also take the input for which country you want to know and according to that it will show you the graph.It looks like:
 # world cases
 <img width="960" alt="w" src="https://user-images.githubusercontent.com/59799717/82750124-ba6f4e00-9dcb-11ea-9c84-4e05f0caf368.PNG">
 
